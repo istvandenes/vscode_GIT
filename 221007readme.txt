@@ -2,4 +2,8 @@ readme content
 second changesff
 changes to ammend 
 changes made on the server
+<<<<<<< HEAD
 changes made on the server
+=======
+changes on new branch
+>>>>>>> 930c226327fff12022b69be576e658a9e61bfbd7
